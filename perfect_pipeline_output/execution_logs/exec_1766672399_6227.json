@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766672399_6227",
+  "query": "МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ",
+  "start_time": "2025-12-25T17:19:59.561665",
+  "end_time": "2025-12-25T17:20:06.736668",
+  "processing_time": 7.17496395111084,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}

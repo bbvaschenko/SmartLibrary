@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766675931_2228",
+  "query": "учебник по машинному обучению",
+  "start_time": "2025-12-25T18:18:51.355637",
+  "end_time": "2025-12-25T18:18:59.691879",
+  "processing_time": 8.336160898208618,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}

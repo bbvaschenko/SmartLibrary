@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766672773_1254",
+  "query": "ядерная фищика",
+  "start_time": "2025-12-25T17:26:13.031073",
+  "end_time": "2025-12-25T17:26:21.069596",
+  "processing_time": 8.038462162017822,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}

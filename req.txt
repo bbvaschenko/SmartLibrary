@@ -1,0 +1,14 @@
+[file name]: requirements.txt
+[file content begin]
+# Основные зависимости
+requests>=2.31.0
+openpyxl>=3.1.2
+pandas>=2.0.0
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+colorama>=0.4.6
+
+
+PyYAML>=6.0
+dataclasses-json>=0.6.0
+[file content end]

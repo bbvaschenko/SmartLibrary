@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766676044_2282",
+  "query": "математика",
+  "start_time": "2025-12-25T18:20:44.795993",
+  "end_time": "2025-12-25T18:20:49.711692",
+  "processing_time": 4.915581941604614,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}

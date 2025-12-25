@@ -1,0 +1,17 @@
+{
+  "total_queries": 1,
+  "accepted_answers": 0,
+  "errors_detected": 0,
+  "errors_recovered": 0,
+  "tool_invocations": {
+    "SearchAgent": 1
+  },
+  "critic_metrics": {
+    "total_calls": 0,
+    "effective_changes": 0,
+    "acceptance_count": 0,
+    "average_ecs": 0.0
+  },
+  "consistency_tests": [],
+  "last_updated": "2025-12-25T18:44:10.740340"
+}

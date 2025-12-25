@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766670090_2203",
+  "query": "учебники по математике для начинающих",
+  "start_time": "2025-12-25T16:41:30.514149",
+  "end_time": "2025-12-25T16:41:30.773976",
+  "processing_time": 0.25977396965026855,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}

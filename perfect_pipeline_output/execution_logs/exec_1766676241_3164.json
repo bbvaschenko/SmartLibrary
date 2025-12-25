@@ -1,0 +1,21 @@
+{
+  "execution_id": "exec_1766676241_3164",
+  "query": "математика для начинающих",
+  "start_time": "2025-12-25T18:24:01.956006",
+  "end_time": "2025-12-25T18:24:09.659707",
+  "processing_time": 7.703621864318848,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "consistency_test",
+    "test_run",
+    "temperature",
+    "enable_critique",
+    "execution_id",
+    "original_query"
+  ]
+}

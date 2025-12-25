@@ -1,0 +1,94 @@
+{
+  "system_info": {
+    "created": "2025-12-25T05:05:50.144769",
+    "version": "1.0",
+    "description": "Метаданные системы управления книгами"
+  },
+  "statistics": {
+    "total_books": 3,
+    "total_tags": 14,
+    "total_summaries": 4,
+    "last_update": "2025-12-25T18:30:31.500136"
+  },
+  "categories": {
+    "academic_subjects": [],
+    "genres": [],
+    "audience_levels": [],
+    "complexity_levels": [],
+    "formats": []
+  },
+  "processing_history": [
+    {
+      "timestamp": "2025-12-25T05:07:07.760293",
+      "books_count": 1,
+      "summaries_count": 0,
+      "tags_count": 2
+    },
+    {
+      "timestamp": "2025-12-25T05:07:07.775418",
+      "books_count": 1,
+      "summaries_count": 1,
+      "tags_count": 2
+    },
+    {
+      "timestamp": "2025-12-25T05:07:07.825016",
+      "books_count": 2,
+      "summaries_count": 1,
+      "tags_count": 4
+    },
+    {
+      "timestamp": "2025-12-25T16:53:45.356826",
+      "books_count": 3,
+      "summaries_count": 1,
+      "tags_count": 10
+    },
+    {
+      "timestamp": "2025-12-25T16:53:45.364539",
+      "books_count": 3,
+      "summaries_count": 2,
+      "tags_count": 10
+    },
+    {
+      "timestamp": "2025-12-25T16:53:45.388530",
+      "books_count": 4,
+      "summaries_count": 2,
+      "tags_count": 16
+    },
+    {
+      "timestamp": "2025-12-25T17:13:46.816901",
+      "books_count": 5,
+      "summaries_count": 2,
+      "tags_count": 22
+    },
+    {
+      "timestamp": "2025-12-25T17:13:46.829324",
+      "books_count": 5,
+      "summaries_count": 3,
+      "tags_count": 22
+    },
+    {
+      "timestamp": "2025-12-25T17:13:46.866065",
+      "books_count": 6,
+      "summaries_count": 3,
+      "tags_count": 28
+    },
+    {
+      "timestamp": "2025-12-25T18:30:31.445827",
+      "books_count": 2,
+      "summaries_count": 3,
+      "tags_count": 8
+    },
+    {
+      "timestamp": "2025-12-25T18:30:31.458213",
+      "books_count": 2,
+      "summaries_count": 4,
+      "tags_count": 8
+    },
+    {
+      "timestamp": "2025-12-25T18:30:31.500146",
+      "books_count": 3,
+      "summaries_count": 4,
+      "tags_count": 14
+    }
+  ]
+}

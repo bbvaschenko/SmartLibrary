@@ -1,0 +1,18 @@
+{
+  "execution_id": "exec_1766671363_3185",
+  "query": "учебник по математике",
+  "start_time": "2025-12-25T17:02:43.224606",
+  "end_time": "2025-12-25T17:02:49.551951",
+  "processing_time": 6.327254295349121,
+  "final_decision": "continue",
+  "iterations": [],
+  "result_summary": {
+    "books_found": 0,
+    "recommendations_generated": false
+  },
+  "context_keys": [
+    "execution_id",
+    "original_query",
+    "enable_critique"
+  ]
+}
